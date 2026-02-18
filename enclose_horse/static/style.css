@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    text-align: center;
+}
+
+#game-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+canvas {
+    background: white;
+    border: 1px solid #ccc;
+}
